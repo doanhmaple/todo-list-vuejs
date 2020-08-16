@@ -1,0 +1,9 @@
+.incomplete {
+    background: $bg-incomplete;
+    transition: .3s all;
+}
+
+.complete {
+    background: $bg-complete;
+    transition: .3s all;
+}
